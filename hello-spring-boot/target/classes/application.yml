@@ -1,0 +1,7 @@
+server:
+  port: 9090
+  servlet:
+    context-path: /boot
+
+logging:
+  file: logs/log.log
